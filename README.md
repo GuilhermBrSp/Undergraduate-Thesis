@@ -1,0 +1,1 @@
+This repo is just for storing my thesis assets, check https://github.com/GuilhermBrSp/GeoGraph for the final project source code with better description.
